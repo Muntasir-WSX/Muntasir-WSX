@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="muntasir linkedin cover.png" width="100%" style="border-radius: 14px;" alt="Muntasir Mahmud Cover Image"/>
+  <img src="MuntasirNewbanner.png" width="100%" style="border-radius: 14px;" alt="Muntasir Mahmud Cover Image"/>
 </p>
 
 <h1 align="center" style="color:#4da6ff;">Muntasir Mahmud</h1>
