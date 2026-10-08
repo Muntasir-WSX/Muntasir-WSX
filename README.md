@@ -1,116 +1,78 @@
-const Muntasir = {
-  name: "Muntasir Mahmud",
-  role: "Software Engineer",
-  field: "Computer Science & Engineering",
+<p align="center">
+  <img src="MuntasirNewBanner.png" width="100%" style="border-radius: 14px;" alt="Muntasir Mahmud Cover Image"/>
+</p>
 
-  education: {
-    university: "International Islamic University Chittagong",
-    degree: "B.Sc. in Computer Science & Engineering",
-    status: "Final Year"
-  },
+<h1 align="center" style="color:#4da6ff;">Muntasir Mahmud</h1>
+<h3 align="center" style="color:#9fc9ff;">Software Engineer | MERN Stack Specialist | GenAI Enthusiast</h3>
+<p align="center">
+  <em style="color:#6ea8ff;">"Blending Full-Stack Development with Intelligence"</em>
+</p>
 
-  stack: {
-    frontend: [
-      "JavaScript",
-      "TypeScript",
-      "React",
-      "Next.js",
-      "Tailwind CSS"
-    ],
+---
 
-    backend: [
-      "Node.js",
-      "Express.js"
-    ],
+## 👨‍💻 About Me
 
-    database: [
-      "MongoDB",
-      "PostgreSQL"
-    ],
+I am a **Software Engineer** specializing in the **MERN stack**, currently in my final year of **CSE at IIUC**. My expertise lies in architecting robust, high-performance web applications and now, I'm actively **blending Web Development with Generative AI** to build intelligent, autonomous solutions.
 
-    tools: [
-      "Git",
-      "GitHub",
-      "REST APIs",
-      "Prisma"
-    ]
-  },
+📧 **Email:** alimuntasir2001@gmail.com
 
-  engineering: {
-    interests: [
-      "Software Architecture",
-      "Scalable Systems",
-      "Backend Engineering",
-      "API Design",
-      "Authentication & Authorization",
-      "Database Design"
-    ]
-  },
+---
 
-  exploring: [
-    "Generative AI",
-    "LLM Integration",
-    "RAG",
-    "AI-powered Applications",
-    "System Design"
-  ],
+## 🌐 Tech Stack
 
-  principles: [
-    "Understand the problem first",
-    "Write maintainable code",
-    "Build scalable systems",
-    "Keep learning"
-  ],
+**Frontend & Backend:** <p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwind,nodejs,express,mongodb" alt="Tech Stack Icons"/>
+</p>
 
-  goal:
-    "Build reliable software and grow into a strong Full-Stack Engineer."
-};
+**AI & Innovation:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=openai,py,fastapi" alt="AI Icons"/>
+</p>
+
+---
+
+## 🚀 Development Blended with AI
+
+I focus on creating "Intelligent Applications" that go beyond static logic. My current explorations include:
+- **LLM Integration:** Connecting MERN apps with GPT/Gemini for smart automation.
+- **RAG Systems:** Building knowledge-based chatbots using vector databases.
+- **AI Automation:** Leveraging AI to enhance developer productivity and system architecture.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muntasir-WSX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasir-WSX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muntasir-WSX&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📌 Social & Portfolio
+
+<p align="center">
+  <a href="https://github.com/Muntasir-WSX" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muntasir-mahmud-aa4291278/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+## 📚 Current Focus
+
+- 🤖 **Generative AI:** Building AI-driven MERN applications.
+- 🏗️ **System Architecture:** Advanced scalable backend design.
+- 🌟 **Open-source:** Contributing to the global developer community.
+
+---
+
+<p align="center">
+  <em style="color:#6ea8ff;">“Architect. Innovate. Inspire.”</em>
+</p>
 
 
-console.log("MUNTASIR MAHMUD");
-console.log("================");
-
-console.log(`Role       : ${Muntasir.role}`);
-console.log(`Field      : ${Muntasir.field}`);
-
-console.log("\nEducation");
-console.log("---------");
-console.log(`University : ${Muntasir.education.university}`);
-console.log(`Degree     : ${Muntasir.education.degree}`);
-console.log(`Status     : ${Muntasir.education.status}`);
-
-console.log("\nTechnology");
-console.log("----------");
-
-Object.entries(Muntasir.stack).forEach(([category, technologies]) => {
-  console.log(
-    `${category.padEnd(10)}: ${technologies.join(", ")}`
-  );
-});
-
-console.log("\nEngineering Interests");
-console.log("---------------------");
-
-Muntasir.engineering.interests.forEach((interest) => {
-  console.log(`> ${interest}`);
-});
-
-console.log("\nCurrently Exploring");
-console.log("-------------------");
-
-Muntasir.exploring.forEach((topic) => {
-  console.log(`> ${topic}`);
-});
-
-console.log("\nEngineering Principles");
-console.log("----------------------");
-
-Muntasir.principles.forEach((principle, index) => {
-  console.log(`${index + 1}. ${principle}`);
-});
-
-console.log("\nGoal");
-console.log("----");
-console.log(Muntasir.goal);
-
-console.log("\n[ System Status: Learning & Building ]");
+ekto computer engineer er moto daw.... stylish na diye.... code diye daw,Jva script e. ja print mane console.log hobe
