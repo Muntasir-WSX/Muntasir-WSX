@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="color:#4da6ff;">Muntasir Mahmud</h1>
-<h3 align="center" style="color:#9fc9ff;">Software Engineer | MERN Stack Specialist | GenAI Enthusiast</h3>
+<h3 align="center" style="color:#9fc9ff;">Software Engineer | Full-Stack & GenAI Developer</h3>
 <p align="center">
   <em style="color:#6ea8ff;">"Blending Full-Stack Development with Intelligence"</em>
 </p>
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer** specializing in the **MERN stack**, currently in my final year of **CSE at IIUC**. My expertise lies in architecting robust, high-performance web applications and now, I'm actively **blending Web Development with Generative AI** to build intelligent, autonomous solutions.
+I am a **Software Engineer** specializing in full-stack web and AI application development, currently in my final year of **B.Sc. in CSE at IIUC**. My expertise lies in architecting robust, high-performance web applications using modern technologies and **blending Web Development with Generative AI** to build intelligent, autonomous solutions.
 
 📧 **Email:** alimuntasir2001@gmail.com
 
@@ -21,22 +21,22 @@ I am a **Software Engineer** specializing in the **MERN stack**, currently in my
 ## 🌐 Tech Stack
 
 **Frontend & Backend:** <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwind,nodejs,express,mongodb" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,nodejs,express,mongodb,postgres,prisma" alt="Tech Stack Icons"/>
 </p>
 
-**AI & Innovation:**
+**AI & Tools:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=openai,py,fastapi" alt="AI Icons"/>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,redis,docker,git,github" alt="AI and Tools Icons"/>
 </p>
 
 ---
 
 ## 🚀 Development Blended with AI
 
-I focus on creating "Intelligent Applications" that go beyond static logic. My current explorations include:
-- **LLM Integration:** Connecting MERN apps with GPT/Gemini for smart automation.
-- **RAG Systems:** Building knowledge-based chatbots using vector databases.
-- **AI Automation:** Leveraging AI to enhance developer productivity and system architecture.
+I focus on creating "Intelligent Applications" that go beyond static logic. My current explorations and implementations include:
+- **LLM Integration:** Connecting MERN/Next.js apps with GPT/Gemini models and Ollama for smart automation.
+- **RAG Systems:** Building knowledge-based chatbots and intelligent search systems.
+- **AI Agents:** Developing local AI assistants and automated workflow agents using Python and LangChain concepts.
 
 ---
 
@@ -64,15 +64,12 @@ I focus on creating "Intelligent Applications" that go beyond static logic. My c
 
 ## 📚 Current Focus
 
-- 🤖 **Generative AI:** Building AI-driven MERN applications.
-- 🏗️ **System Architecture:** Advanced scalable backend design.
-- 🌟 **Open-source:** Contributing to the global developer community.
+- 🤖 **Generative AI:** Building advanced AI-driven Full Stack applications & autonomous agents.
+- 🏗️ **System Architecture:** Scalable backend design with PostgreSQL, Prisma, and Redis.
+- 🌟 **Open-source:** Contributing to innovative web and AI projects.
 
 ---
 
 <p align="center">
   <em style="color:#6ea8ff;">“Architect. Innovate. Inspire.”</em>
 </p>
-
-
-ekto computer engineer er moto daw.... stylish na diye.... code diye daw,Jva script e. ja print mane console.log hobe
