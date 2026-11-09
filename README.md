@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasir-WSX/Muntasir-WSX/main/greenBanner.png" width="100%" style="border-radius: 12px;" alt="Muntasir Mahmud Cover Image"/>
+  <img src="https://raw.githubusercontent.com/Muntasir-WSX/Muntasir-WSX/main/Cover.png" width="100%" style="border-radius: 12px;" alt="Muntasir Mahmud Cover Image"/>
 </p>
 
 <h1 align="center" style="color:#4da6ff;">Muntasir Mahmud</h1>
